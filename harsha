@@ -1,0 +1,6 @@
+
+#include<stdio.h>
+#incldue<conio.H>
+main()
+int a,b,c;
+a=14;
